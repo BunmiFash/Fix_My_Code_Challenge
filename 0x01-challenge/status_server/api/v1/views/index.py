@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-""" Index view
+"""
+Index views
 """
 from flask import jsonify, Blueprint
 
